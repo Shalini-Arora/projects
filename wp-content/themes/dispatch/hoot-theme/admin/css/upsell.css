@@ -1,0 +1,27 @@
+/**
+ * Hoot Upsell Page
+ * ========================================================
+ */
+
+#hoot-upsell .centered { text-align: center; margin: 1em; }
+#hoot-upsell h1 { line-height: 1.2em; font-size: 2.8em; font-weight: 400; }
+#hoot-upsell .hoot-upsell-intro, #hoot-upsell .hoot-upsell-cta, #hoot-upsell .hoot-upsell-demo { color: #555d66; font-weight: 400; line-height: 1.6em; font-size: 19px; }
+#hoot-upsell .button-buy-premium { font-size: inherit; line-height: inherit; height: auto; text-transform: uppercase; padding: 8px 18px; margin: 1.5em; }
+#hoot-upsell .hoot-upsell-demo { margin: -40px 0 50px; text-transform: uppercase; }
+#hoot-upsell .button-view-demo { font-size: 15px; padding-left: 20px; padding-right: 20px; }
+
+.hoot-upsell-sub { background: #fff; padding: 5px 20px 0; border: solid 1px #eee; -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1); box-shadow: 0 1px 1px 0 rgba(0,0,0,.1); }
+
+.hoot-upsell-sub .section-premium-info { border-bottom: solid 1px #ddd; padding-bottom: 45px; max-width: 800px; margin: 0 auto; font-size: 16px; line-height: 24px; }
+.hoot-upsell-sub .premium-info {}
+.hoot-upsell-sub .premium-info-text { float: left; width: 54%; padding-right: 2%; }
+.hoot-upsell-sub .heading { font-size: 1.7em; line-height: 1em; margin: 45px 0 1em; font-weight: normal; text-transform: uppercase; }
+.hoot-upsell-sub hr { border: transparent; margin: 8px 0; }
+.hoot-upsell-sub .premium-info-img { width: 43%; float: left; padding-top: 45px; text-align: center; }
+.hoot-upsell-sub img { max-width: 100%; height: auto; }
+#hoot-upsell .hoot-upsell-sub .hoot-upsell-cta { margin: 20px auto; border-bottom: none; }
+
+@media only screen and (max-width: 640px) {
+	.hoot-upsell-sub .premium-info-img, .hoot-upsell-sub .premium-info-text { float: none; width: 100%; max-width: none; }
+	.hoot-upsell-sub .premium-info-img { text-align: center; }
+}

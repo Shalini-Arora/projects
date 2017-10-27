@@ -1,0 +1,33 @@
+#gform_fields li.gform_fieldset .field_duplicate_icon {
+	
+	display: none !important;
+	
+}
+
+#gform_fields li.gform_fieldset_begin {
+	
+	border-top: 1px black dotted;
+	border-left: 1px black dotted;
+	
+}
+	
+	#gform_fields li.gform_fieldset_begin .gfield_label {
+		
+		font-size: 130%;
+		
+	}
+
+#gform_fields li.gform_fieldset_end {
+	
+	border-bottom: 1px black dotted;
+	border-left: 1px black dotted;
+	
+}
+	
+	#gform_fields li.gform_fieldset_end .field_delete_icon,
+	#gform_fields li.gform_fieldset_end .gfield_label,
+	#gform_fields li.gform_fieldset_end .gfield_description {
+		
+		display: none !important;
+		
+	}

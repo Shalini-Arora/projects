@@ -1,0 +1,35 @@
+Map Task:
+Also on the map 1. it does not show the locations on the map. 2. For the charts - we simply need a count no chart is required 3. The font on the header is different. 4. I thought the map was going to be more simple with with pins and maybe an outline of the counties and regions.
+SW
+Shawn Wagner Friday 9:49 PM
+We also may need an additional field in the table "Status" - this is something that we will need to administer on the backend to show if they are In Progress, Approved, Online,
+
+how difficult would it be (in hours) to show a map of Iowa with a table below showing a list of agencies that have applied. The fields in the table would be Region-County-Agency. This information would be based on the registration process. We would also need a way to select which registered users would be on the map. Maybe a field for level and a check box to post to map.
+
+
+Ok - I will need the map of Iowa in sections like the sample I provided. Sample page https://isicsb.iowa.gov/iowa-homeland-security-regions - then I will want the count by region and a pin in each area on the map. Can you still perform this work?
+
+The design should not same as sample because Google map api have own map and layout structure. I can show mark the list of regions and then point the pins. Please let me know
+
+if possible make sure you can delineate the 6 regions on the map
+
+Which site do you want me to log into to test user access and view user dashboard?
+
+you can login to http://isicsb.iotis.com/ to test user acsess and view user dashboard.
+
+Please use below credentils to login 
+login link:  http://isicsb.iotis.com/wp-admin
+
+Username:   balvinder.impinge@gmail.com
+Password: zpTbyk74hwel)C(kiGu)0Y#o
+
+About the map,
+I have updated the map task,
+
+About "Status"
+you can change status of each user by admin pannel
+Please check the screenshots.
+
+Please check and let me know .
+
+Thanks.
